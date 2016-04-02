@@ -1,0 +1,8 @@
+[user]
+	email = mcampb51@uncc.edu
+	name = Matthew Campbell
+
+[color]
+	ui = true
+[core]
+	autocrlf = input
