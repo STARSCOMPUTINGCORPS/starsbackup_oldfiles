@@ -1,0 +1,124 @@
+Package: libgudev-1.0-0
+Architecture: amd64
+Auto-Installed: 1
+
+Package: wireless-regdb
+Architecture: amd64
+Auto-Installed: 1
+
+Package: linux-headers-3.2.0-40
+Architecture: amd64
+Auto-Installed: 1
+
+Package: iw
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-twisted-web
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libfreetype6
+Architecture: amd64
+Auto-Installed: 1
+
+Package: grub-pc
+Architecture: amd64
+Auto-Installed: 1
+
+Package: linux-headers-3.2.0-40-virtual
+Architecture: amd64
+Auto-Installed: 1
+
+Package: grub-gfxpayload-lists
+Architecture: amd64
+Auto-Installed: 1
+
+Package: crda
+Architecture: amd64
+Auto-Installed: 1
+
+Package: os-prober
+Architecture: amd64
+Auto-Installed: 1
+
+Package: grub-pc-bin
+Architecture: amd64
+Auto-Installed: 1
+
+Package: gir1.2-gudev-1.0
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-twisted-names
+Architecture: amd64
+Auto-Installed: 1
+
+Package: grub-common
+Architecture: amd64
+Auto-Installed: 1
+
+Package: grub2-common
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libterm-readkey-perl
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libjpeg-turbo8
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libjpeg8
+Architecture: amd64
+Auto-Installed: 1
+
+Package: ttf-dejavu-core
+Architecture: amd64
+Auto-Installed: 1
+
+Package: dbconfig-common
+Architecture: amd64
+Auto-Installed: 1
+
+Package: php5-gd
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libmcrypt4
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libt1-5
+Architecture: amd64
+Auto-Installed: 1
+
+Package: fontconfig-config
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libxpm4
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libgd2-xpm
+Architecture: amd64
+Auto-Installed: 1
+
+Package: php5-mcrypt
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libfontconfig1
+Architecture: amd64
+Auto-Installed: 1
+
+Package: git-man
+Architecture: amd64
+Auto-Installed: 1
+
+Package: liberror-perl
+Architecture: amd64
+Auto-Installed: 1
+

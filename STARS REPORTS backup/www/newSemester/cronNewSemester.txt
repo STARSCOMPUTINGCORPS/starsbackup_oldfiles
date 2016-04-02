@@ -1,0 +1,2 @@
+30 4 28 5,12 * /usr/bin/wget http://www.ec2-23-23-32-35.compute-1.amazonaws.com/newSemester/index.php
+#this will run a page that will up the database at the end of each semester. After this runs there will be a snap shot of the preceding semester in the database

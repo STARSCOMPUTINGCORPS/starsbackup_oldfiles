@@ -1,0 +1,840 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"profil",
+				"profile_type"
+			],
+			[
+				"Post",
+				"PostNotFoundError"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Instance ID: i-69546710\nAMI ID: ubuntu-precise-12.04-amd64-server-20130411.1 (ami-d0f89fb9)\nAvailability zone: us-east-1d\nEBS Volume ID: vol-b56996f6\nElastic IP: 54.235.144.48\nVolume device: /dev/sdf\n",
+			"settings":
+			{
+				"buffer_size": 200,
+				"line_ending": "Unix",
+				"name": "Instance ID: i-69546710"
+			}
+		},
+		{
+			"file": "CONFIG.php",
+			"settings":
+			{
+				"buffer_size": 313,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dataBase/index.php",
+			"settings":
+			{
+				"buffer_size": 2449,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dataBase/QueryLibrary.php",
+			"settings":
+			{
+				"buffer_size": 2480,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dataBase/FieldQuery.php",
+			"settings":
+			{
+				"buffer_size": 8036,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Views/pages/all-students.php",
+			"settings":
+			{
+				"buffer_size": 956,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Models/User.php",
+			"settings":
+			{
+				"buffer_size": 9225,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Template.php",
+			"settings":
+			{
+				"buffer_size": 988,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "gender - field_revision_field_gender__ - field_gender___value\ngraduation - field_revision_field_graduation_year__ - field_graduation_year___value\nschool - field_revision_field_school__ - field_school___value\nethnicity - field_data_field_ethnicity__ - field_ethnicity___value\nage - \ngpa - field_data_field_overall_gpa__ - field_overall_gpa___value\nsemesters - field_data_field_semesters_in_stars__ - field_semesters_in_stars___value\ncurrent - \nreturning - \ncitizenship - \nresearch consent - \n\nfirst name - field_data_field_name_first\nlast name - field_data_field_name_last",
+			"settings":
+			{
+				"buffer_size": 571,
+				"line_ending": "Unix",
+				"name": "gender - field_revision_field_gender__ - field_gen"
+			}
+		},
+		{
+			"file": "dataBase/Connection.php",
+			"settings":
+			{
+				"buffer_size": 834,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"gst",
+				"Git: Status"
+			],
+			[
+				"license",
+				"SublimeGit: Add License"
+			],
+			[
+				"syntax bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"syntax pl",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"gph",
+				"Git: Push"
+			],
+			[
+				"gp",
+				"Git: Pull"
+			],
+			[
+				"gc",
+				"Git: Checkout"
+			],
+			[
+				"gf",
+				"Git: Fetch"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/alex/public_html/stars/reporting",
+		"/home/alex/public_html/stars/reporting/db",
+		"/home/alex/public_html/stars/reporting/src",
+		"/home/alex/public_html/stars/reporting/src/Models"
+	],
+	"file_history":
+	[
+		"/home/alex/public_html/stars/reporting/src/CONFIG.php",
+		"/home/alex/public_html/stars/reporting/db/STARS-memberData_2014_Fall.sql",
+		"/home/alex/public_html/stars/reporting/src/Models/User.php",
+		"/home/alex/public_html/stars/reporting/src/Views/_includes/html_navigation.php",
+		"/home/alex/public_html/stars/reporting/src/index.php",
+		"/home/alex/public_html/stars/reporting/src/DoiMysql.php",
+		"/home/alex/public_html/stars/reporting/src/Views/_includes/html_header.php",
+		"/home/alex/public_html/stars/reporting/src/dataBase/InsertLibrary.php",
+		"/home/alex/public_html/stars/reporting/db/STARS-memberData_2014_Spring.sql",
+		"/home/alex/public_html/stars/reporting/src/dataBase/updateDB.php",
+		"/home/alex/public_html/stars/reporting/db/STARS-memberData_2014_spring.sql",
+		"/home/alex/public_html/stars/reporting/db/sql_test2.sql",
+		"/home/alex/public_html/stars/reporting/db/sql_test.sql",
+		"/home/alex/public_html/stars/reporting/db/community-bak-2014-11-18.sql",
+		"/home/alex/public_html/stars/reporting/src/Views/pages/index.php",
+		"/home/alex/public_html/stars/reporting/src/Views/pages/homepage.php",
+		"/home/alex/public_html/stars/reporting/src/Views/index.php",
+		"/home/alex/public_html/stars/reporting/src/viz/index.html",
+		"/home/alex/public_html/stars/reporting/DoiMysql.php",
+		"/home/alex/public_html/stars/reporting/CONFIG.php",
+		"/home/alex/dev/python/esix/esix/__init__.py",
+		"/home/alex/dev/python/esix/esix/ticket.py",
+		"/home/alex/.hbak/N/e621/e/.metadata/001d22c7e7e76bf5d2ce5ca1fe97d014",
+		"/home/alex/dev/python/esix/esix/post.py",
+		"/home/alex/dev/python/esix/wiki/Home.md",
+		"/home/alex/dev/python/esix/setup.py",
+		"/home/alex/dev/python/esix/changelog.txt",
+		"/home/alex/dev/python/esix/test.py",
+		"/home/alex/dev/python/esix/esix/user.py",
+		"/home/alex/dev/python/esix/esix/config.py",
+		"/home/alex/dev/python/esix/wiki/Ticket.md",
+		"/home/alex/dev/python/esix/README.md",
+		"/home/alex/dev/python/esix/wiki/Takedown.md",
+		"/home/alex/dev/python/esix/esix/api.py",
+		"/home/alex/dev/python/esix/esix/comment.py",
+		"/home/alex/dev/python/esix/esix/takedown.py",
+		"/home/alex/dev/python/esix/wiki/Post.md",
+		"/home/alex/dev/python/esix/wiki/Config.md",
+		"/home/alex/dev/python/esix/wiki/Errors.md",
+		"/home/alex/dev/python/esix/esix/errors.py",
+		"/home/alex/dev/python/esix/43cd0f38320fee7b525b810fd75611ce",
+		"/home/alex/dev/python/esix/esix/forum.py",
+		"/home/alex/dev/python/esix/examples/e621_downloader.py",
+		"/home/alex/dev/python/esix/esix/tag.py",
+		"/home/alex/dev/python/esix/esix/pool.py",
+		"/home/alex/public_html/engl2116/application/controllers/page.php",
+		"/home/alex/public_html/engl2116/application/views/default/pages/home.php",
+		"/home/alex/public_html/engl2116/styles/default/js/contact.js",
+		"/home/alex/public_html/engl2116/application/views/default/pages/services.php",
+		"/home/alex/public_html/engl2116/application/views/default/navbar.php",
+		"/home/alex/public_html/engl2116/application/controllers/error.php",
+		"/home/alex/public_html/engl2116/application/controllers/blog.php",
+		"/etc/apache2/sites-enabled/therasim.conf",
+		"/etc/apache2/sites-enabled/000-default.conf",
+		"/home/alex/.config/sublime-text-3/Packages/User/SublimeGit.sublime-settings",
+		"/home/alex/Dropbox/Python/gen_sublimegit_license.py",
+		"/home/alex/.hbak/Pictures/N/scripts/slideshow.py",
+		"/home/alex/Downloads/Used/Gitalist/README",
+		"/home/alex/giftools/run",
+		"/home/alex/dotfiles/bash_profile",
+		"/home/alex/dotfiles/zshrc",
+		"/home/alex/.hbak/Pictures/N/slideshow.py",
+		"/home/alex/.hbak/Pictures/N/e621/e/view-log.txt",
+		"/home/alex/.hbak/Pictures/N/slideshow.sh",
+		"/home/alex/.hbak/Pictures/N/slideshow-e621.sh",
+		"/home/alex/.hbak/Pictures/N/e621/rand-img.sh",
+		"/home/alex/.hbak/Pictures/N/F/rand-img.sh",
+		"/home/alex/Documents/projects/python/esix/wiki/Tag.md",
+		"/home/alex/Documents/projects/python/esix/wiki/ticket.md",
+		"/home/alex/Documents/projects/python/esix/wiki/Takedown.md",
+		"/home/alex/Documents/projects/python/esix/esix/errors.py",
+		"/home/alex/Documents/projects/python/esix/esix/tag.py",
+		"/home/alex/Documents/projects/python/esix/esix/post.py",
+		"/home/alex/Documents/projects/python/esix/esix/user.py",
+		"/home/alex/Documents/projects/python/esix/esix/pool.py",
+		"/home/alex/Documents/projects/python/esix/esix/forum.py",
+		"/home/alex/Documents/projects/python/esix/wiki/Config.md",
+		"/home/alex/public_html/tex",
+		"/home/alex/Documents/projects/python/esix/README.md",
+		"/home/alex/Documents/projects/python/esix/esix/comment.py",
+		"/home/alex/Documents/projects/python/esix/wiki/User.md",
+		"/home/alex/Documents/projects/python/esix/esix/takedown.py",
+		"/home/alex/Documents/projects/python/esix/wiki/Post.md",
+		"/home/alex/Documents/projects/python/esix/wiki/Pool.md",
+		"/home/alex/Documents/projects/python/esix/wiki/Forum.md",
+		"/home/alex/Documents/projects/python/esix/wiki/Comment.md",
+		"/home/alex/Documents/projects/python/esix/wiki/Home.md",
+		"/home/alex/Documents/projects/python/esix/wiki/Errors.md",
+		"/home/alex/.config/sublime-text-3/Packages/User/Markdown (Standard).sublime-settings",
+		"/home/alex/.config/sublime-text-3/Packages/User/MultiMarkdown.sublime-settings",
+		"/home/alex/.config/sublime-text-3/Packages/User/Markdown.sublime-settings",
+		"/home/alex/Documents/projects/python/esix/esix/config.py",
+		"/home/alex/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/alex/Documents/esix-popular-posts.py",
+		"/home/alex/Documents/esix-get-links.py",
+		"/home/alex/Dropbox/Serial Number.rtf",
+		"/home/alex/Documents/projects/python/esix/esix.sublime-workspace",
+		"/home/alex/Documents/projects/python/esix/esix/api.py",
+		"/home/alex/Dropbox/Steam Logs/_t_s_h__falconblade/linecache.dat",
+		"/home/alex/Documents/scripts/sync-steam-logs.desktop",
+		"/home/alex/Documents/projects/python/esix/esix/__init__.py",
+		"/home/alex/Documents/projects/python/esix/esix/file.py",
+		"/home/alex/Documents/projects/python/esix/examples/demo.py",
+		"/home/alex/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"<project>",
+			"/home/alex/dev/python/esix/esix",
+			"<project>",
+			"/home/alex/Documents/projects/python/esix/esix",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"gettypestring",
+			"user type",
+			"User type",
+			"setProfileType",
+			"profile",
+			"setprofile",
+			"profile",
+			":profile_type",
+			"insert",
+			"memberData",
+			"^ ",
+			" *\\|",
+			".entity_id`",
+			"`.entity_id",
+			"^ ",
+			" *\\|",
+			"field_data",
+			"junior",
+			"current",
+			"field",
+			"full_query",
+			",",
+			"takedown",
+			"siteload",
+			"folder",
+			"comments",
+			"HEAD",
+			"\\+",
+			"( )\\+( )",
+			"^( )\\+^( )",
+			"^ \\+^ ",
+			" \\+ ",
+			"^ \\+^ ",
+			"+",
+			"comments",
+			"sitelog.dat",
+			"\\.conf",
+			".conf",
+			"load",
+			"zoomed",
+			"focus",
+			"key_press",
+			"key",
+			"print",
+			"change",
+			"tag",
+			"\\+[^ \\\\=]",
+			"\\+[^ \\\\]",
+			"\\+[^ \\\\=]",
+			"\\+[^ \\\\]",
+			"\\+[^ ]",
+			"month",
+			"\\+[^ ]",
+			"fetch_dat",
+			"fetch_data",
+			".  ",
+			"def url",
+			"black",
+			"except",
+			"login",
+			"except",
+			"posts",
+			"favorited",
+			"as ",
+			"#",
+			"raise",
+			"return",
+			"file",
+			"download",
+			"hashlib",
+			"file_size",
+			"_get_data_obj",
+			"api._get_data_obj\\(api._get_page\\(([a-zA-Z0-9]*)\\)\\)",
+			"api._get_data_obj\\(api._get_page\\([a-zA-Z0-9]\\)\\)",
+			"return",
+			"raise",
+			"name",
+			"user.u",
+			"comment",
+			"pool",
+			"notfound",
+			"type"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"`.entity_id",
+			".entity_id`",
+			"",
+			"api._fetch_data(\\1)"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								200,
+								200
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Instance ID: i-69546710",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "CONFIG.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "dataBase/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2449,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "dataBase/QueryLibrary.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2480,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "dataBase/FieldQuery.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8036,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4803,
+								4803
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2952.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Views/pages/all-students.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 956,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								421,
+								421
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Models/User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1167.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Template.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 988,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								226
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 571,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								281,
+								281
+							]
+						],
+						"settings":
+						{
+							"auto_name": "gender - field_revision_field_gender__ - field_gen",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "dataBase/Connection.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 834,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								834,
+								834
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-checkout":
+	{
+		"height": 102.0
+	},
+	"output.git-commit":
+	{
+		"height": 102.0
+	},
+	"output.git-fetch":
+	{
+		"height": 102.0
+	},
+	"output.git-pull":
+	{
+		"height": 102.0
+	},
+	"output.git-push":
+	{
+		"height": 102.0
+	},
+	"project": "stars-reporting.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
